@@ -2,6 +2,7 @@
 // @name           TweetDeck Clear Buttons
 // @description    Adds "Clear" button to each column.
 // @include        https://tweetdeck.twitter.com/*
+// @match          https://tweetdeck.twitter.com/*
 // @version        1.0
 // @source         https://github.com/gregorb/TweetDeckClearButtons
 // ==/UserScript==
